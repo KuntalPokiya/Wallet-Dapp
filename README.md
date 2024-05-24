@@ -3,7 +3,7 @@ Wallet Decentralised application is connected with Ganache blockchain through we
 <br>
 React JS and CSS files are in "./client/src"
 <br>
-<h2>&#8226;Things to make sure</h2>
+<h2>&#8226; Things to make sure</h2>
 
 Do npm install in both client and truffle folders
 <br>
