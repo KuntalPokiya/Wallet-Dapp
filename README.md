@@ -1,9 +1,9 @@
 # Wallet-Dapp
-This  Wallet Decentralised application is connected with Ganache blockchain 
+Wallet Decentralised application is connected with Ganache blockchain through web3.js 
 <br>
 React JS and CSS files are in "./client/src"
 <br>
-<h2>Things to make sure</h2>
+<&#8226;><h2>Things to make sure</h2>
 
 Do npm install in both client and truffle folders
 <br>
